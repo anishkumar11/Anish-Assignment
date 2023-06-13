@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "736618904240",
+    "project_id": "change-mood",
+    "storage_bucket": "change-mood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736618904240:android:f9262e7a0671e8e0f11975",
+        "android_client_info": {
+          "package_name": "com.enjoy.changemood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736618904240-0i6eduuh5450v1vhtsbrq9d7v8shmcbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enjoy.changemood",
+            "certificate_hash": "61a80fc97654022084ea58d7ecec3a79febf6f4d"
+          }
+        },
+        {
+          "client_id": "736618904240-99kqvt121q0ug5ru11g2fm9am6ecs16r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enjoy.changemood",
+            "certificate_hash": "bb7fe7bdc4005de8e785a8adf9ae787cce1b5921"
+          }
+        },
+        {
+          "client_id": "736618904240-1pkh0s03d4t6tutla4du95v3o54rh2fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdstFisklvqgNWLOZcqxPx3HkkTnaVVFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736618904240-1pkh0s03d4t6tutla4du95v3o54rh2fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736618904240:android:2e84aedaf3ba705cf11975",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736618904240-70cpl0cdieb6r25ncto8425b6s5onol8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assignment",
+            "certificate_hash": "61a80fc97654022084ea58d7ecec3a79febf6f4d"
+          }
+        },
+        {
+          "client_id": "736618904240-1pkh0s03d4t6tutla4du95v3o54rh2fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdstFisklvqgNWLOZcqxPx3HkkTnaVVFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736618904240-1pkh0s03d4t6tutla4du95v3o54rh2fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

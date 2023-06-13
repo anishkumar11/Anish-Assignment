@@ -1,0 +1,12 @@
+
+I have used flutter for this assignment
+
+I have made below pages and all validations
+
+- Splash 
+- Login
+- Forgot password
+- Signup
+
+- I have also implemented firebase push noification to receive notification
+- I have used Get package for state management
