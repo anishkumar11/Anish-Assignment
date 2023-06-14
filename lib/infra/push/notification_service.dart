@@ -177,5 +177,5 @@ void onMessageReceived(RemoteMessage message, bool isShowNotification) {
 
   print("FCMData::NotificationService::backkground::type = " + type.toString());
 
-  showNotification(message, type, orderId, isShowNotification);
+  showNotification(message);
 }

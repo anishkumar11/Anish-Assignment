@@ -29,6 +29,8 @@ void main() async {
 
 
   WidgetsFlutterBinding.ensureInitialized();
+  //initialize push notification
+  initFireBase();
 
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
     statusBarColor: AppColors.colorPrimary,
@@ -106,10 +108,10 @@ void onMessageReceived(RemoteMessage message, bool isShowNotification) {
   }
   print("FCMData::Main::backkground::type = " + type.toString());
 
-  showNotification(message, type, orderId, isShowNotification);
+  showNotification(message);
 }
 
-void showNotification(RemoteMessage message, int type, int orderId, bool isShowNotification) {
+void showNotification(RemoteMessage message) {
   showNotificationAlert(message);
 }
 

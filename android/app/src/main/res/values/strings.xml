@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="default_notification_channel_id">assignment_2023</string>
+</resources>

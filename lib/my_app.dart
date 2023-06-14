@@ -1,4 +1,5 @@
 
+import 'package:assignment/core/controller/message/message_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:get/get.dart';
@@ -54,6 +55,8 @@ class _MyAppState extends State<MyApp> {
     Get.put(LoginController());
     Get.put(ForgotController());
     Get.put(RegisterController());
+    Get.put(MessageController());
+
   }
 
   @override

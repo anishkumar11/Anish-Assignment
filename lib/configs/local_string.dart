@@ -26,6 +26,10 @@ class LocalString {
       confirm_pwd_error = "confirm_pwd_error",
       first_name = "first_name",
       last_name = "last_name",
-      have_account = "have_account";
+      have_account = "have_account",
+      message = "message",
+      message_hint = "message_hint",
+      send_message = "send_message",
+      send = "send";
 
 }
